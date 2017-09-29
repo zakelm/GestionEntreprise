@@ -1,0 +1,4 @@
+#Thu Feb 12 13:27:46 WET 2015
+eclipse.preferences.version=1
+xfire.services.location=WebServices/services.xml
+xfire.servlet.name=XFireServlet

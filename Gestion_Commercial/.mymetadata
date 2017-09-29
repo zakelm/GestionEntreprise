@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gestionCommercial"
+  id="myeclipse.1424711680937"
+  context-root="/gestionCommercial"
+  j2ee-spec="5.0"
+  archive="gestionCommercial.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

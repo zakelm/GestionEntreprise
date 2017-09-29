@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="siegeFinal"
+  id="myeclipse.1423747664527"
+  context-root="/siegeFinal"
+  j2ee-spec="5.0"
+  archive="siegeFinal.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
