@@ -1,11 +1,11 @@
-Mini projet gestion d'entreprise à départements multiples:
+# Mini projet gestion d'entreprise Ã  dÃ©partements multiples:
 - Gestion du commercial.
-- Gestion du siège. 
+- Gestion du siÃ¨ge. 
 - Gestion des magasins.
 
-Les téchnologie utilisées sont : 
+Les tÃ©chnologie utilisÃ©es sont : 
 
-- Web services ( implémentées par XFire ) 
+- Web services ( implÃ©mentÃ©es par XFire ) 
 - Ejb3
 - Struts1.2
 - Hibernate3.3
@@ -14,5 +14,5 @@ Les téchnologie utilisées sont :
 - CSS3
 - JavaScript
 
-serveur utilisé :
+serveur utilisÃ© :
 - glassfish V3
