@@ -5,7 +5,7 @@
 
 Les téchnologie utilisées sont : 
 
-- Web services ( implémentées par XFire ) 
+- Web service ( implémenté par XFire ) 
 - Ejb3
 - Struts1.2
 - Hibernate3.3
