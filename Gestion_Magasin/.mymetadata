@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="EJB"
+  name="Gestion_Magasin"
+  id="myeclipse.1423950066575"
+  j2ee-spec="5.0"
+  archive="Gestion_Magasin.jar" />
+
